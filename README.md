@@ -74,3 +74,7 @@ EXAMPLE
     const char *faceCascadeFilename = "/home/user/Documents/qtcreator-3.0.0/Projects/Profile_Detection_V5-QT/haarcascades/haarcascade_frontalface_alt2.xml";  // Haar face detector.
 
 #change to the correct directory in your computer so that they load properly...
+
+
+for windows refer to this:
+http://docs.opencv.org/doc/tutorials/introduction/windows_install/windows_install.html
