@@ -1,7 +1,9 @@
 Profile_Detection_V5-QT
 =======================
 
-#Face Detection Based on Shervin Enami's git, an unoficcial fork, works in qt. 
+    #Face Detection Based on Shervin Emami's git:             https://github.com/MasteringOpenCV/code/tree/master/Chapter8_FaceRecognition
+
+    #An unoficcial fork, works in qt. 
 
 #install opencv 2.x.x in linux :
 
