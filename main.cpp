@@ -31,12 +31,12 @@ const float UNKNOWN_PERSON_THRESHOLD = 0.7f;
 
 // Cascade Classifier file, used for Face Detection.
 //const char *faceCascadeFilename = "lbpcascades/lbpcascade_frontalface.xml";     // LBP face detector.
-const char *faceCascadeFilename = "/home/vita/Documents/qtcreator-2.8.1/Projects/Profile_Detection_V5-QT/haarcascades/haarcascade_frontalface_alt2.xml";  // Haar face detector.
+const char *faceCascadeFilename = "/home/vita/Documents/QT-projects/Projects/Profile_Detection_V5-QT/haarcascades/haarcascade_frontalface_alt2.xml";  // Haar face detector.
 //const char *eyeCascadeFilename1 = "haarcascade_lefteye_2splits.xml";   // Best eye detector for open-or-closed eyes.
 //const char *eyeCascadeFilename2 = "haarcascade_righteye_2splits.xml";   // Best eye detector for open-or-closed eyes.
 //const char *eyeCascadeFilename1 = "haarcascade_mcs_lefteye.xml";       // Good eye detector for open-or-closed eyes.
 //const char *eyeCascadeFilename2 = "haarcascade_mcs_righteye.xml";       // Good eye detector for open-or-closed eyes.
-const char *eyeCascadeFilename1 = "/home/vita/Documents/qtcreator-2.8.1/Projects/Profile_Detection_V5-QT/haarcascades/haarcascade_eye.xml"; // Basic eye detector for open eyes only.
+const char *eyeCascadeFilename1 = "/home/vita/Documents/QT-projects/Projects/Profile_Detection_V5-QT/haarcascades/haarcascade_eye.xml"; // Basic eye detector for open eyes only.
 const char *eyeCascadeFilename2 = "/home/vita/Documents/qtcreator-2.8.1/Projects/Profile_Detection_V5-QT/haarcascades/haarcascade_eye_tree_eyeglasses.xml"; // Basic eye detector for open eyes if they might wear glasses.
 
 
